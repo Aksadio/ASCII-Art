@@ -32,20 +32,5 @@ All image processing happens in the browser through the Canvas API. The source i
 - Lucide React icons
 - Browser-native File, Image, Canvas, Clipboard, Blob, and download APIs
 
-## Run locally
-
-```bash
-pnpm install
-pnpm dev
-```
-
-The production build can be checked with:
-
-```bash
-pnpm check
-pnpm build
-```
-
-## Future improvements
-
-Possible next steps include animated GIF frame playback, optional color ASCII, smart crop modes, adaptive contrast, webcam snapshots, and an OffscreenCanvas worker for extremely large images.
+--------------------------------------------------------------------------------------------
+## By [Shahariar Azim AKsad](https://aksadio.github.io/Shahariar-Azim-Aksad/)
