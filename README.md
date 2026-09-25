@@ -11,8 +11,6 @@ ASCII Vision is a browser-local image processing tool that turns portraits, land
 - Smooth, high-contrast, and edge-enhanced rendering modes.
 - Side-by-side, original-only, ASCII-only, and draggable split comparison views.
 - Copy ASCII, download TXT, and download PNG export actions.
-- Fullscreen ASCII viewer, responsive mobile layout, local sample image, and human-readable error states.
-
 
 
 --------------------------------------------------------------------------------------------
