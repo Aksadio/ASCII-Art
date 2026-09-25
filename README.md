@@ -12,7 +12,7 @@ ASCII Vision is a browser-local image processing tool that turns portraits, land
 - Side-by-side, original-only, ASCII-only, and draggable split comparison views.
 - Copy ASCII, download TXT, and download PNG export actions.
 - Fullscreen ASCII viewer, responsive mobile layout, local sample image, and human-readable error states.
-- Keyboard shortcuts: `Ctrl/Cmd + O` to open, `Ctrl/Cmd + C` while the ASCII viewer is focused to copy, and `Escape` to exit fullscreen.
+
 
 
 --------------------------------------------------------------------------------------------
